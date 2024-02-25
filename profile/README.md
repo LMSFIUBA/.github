@@ -7,11 +7,11 @@ Breve descripción de la organización.
 
 
 En esta sección puedes proporcionar información sobre las expresiones reglamentarias CIRSOC 402 y 403. Puedes incluir detalles sobre su propósito, alcance, y cómo se aplican en tus proyectos.
-### [Nombre del Proyecto 1](enlace_al_repositorio_1)
+### [CIRSOC 402](https://github.com/LMSFIUBA/CIRSOC402)
 
 Breve descripción del proyecto 1.
 
-### [Nombre del Proyecto 2](enlace_al_repositorio_2)
+### [CIRSOC 403](https://github.com/LMSFIUBA/CIRSOC403)
 
 Breve descripción del proyecto 2.
 
